@@ -1,7 +1,7 @@
 gfwhost
 =======
 
-Host for Google, Facebook
+Host for Google, Facebook，YouTube
 
 目前（2014.12.03）还能用，之后就不知道了。
 
